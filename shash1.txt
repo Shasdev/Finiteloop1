@@ -6,4 +6,9 @@ shashank
 pavan
 shash
 nishant
-nelson
+
+Event-1
+Bhoomika
+navya
+nireeeksha
+rakshita
